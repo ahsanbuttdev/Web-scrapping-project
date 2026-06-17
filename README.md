@@ -47,7 +47,7 @@ The dataset was extracted from Wikipedia, processed using Python, and visualized
 ```text
 ├── scrapping.ipynb
 ├── companies_dashboard.pbix
-├── companies_dataset.png
+├── Companies_dataset.png
 └── README.md
 ```
 
